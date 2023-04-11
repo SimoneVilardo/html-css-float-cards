@@ -3,3 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.conteiner{
+    max-width: 1170px;
+    margin: 0 auto;
+    font-family: 'Fredoka', sans-serif;
+}
+
+/* INIZIO TITOLO E SOTTOTITOLO */
+h1{
+    font-size: 35px;
+    color: rgb(211, 35, 102);
+    margin: 2rem;
+}
+
+.title-undertitle {
+    text-align: center;
+}
+/* FINE TITOLO E SOTTOTITOLO */
