@@ -21,3 +21,34 @@ h1{
     text-align: center;
 }
 /* FINE TITOLO E SOTTOTITOLO */
+
+/* INIZIO LAYOUT */
+.row{
+    float: left;
+    margin: 50px 10px 0 10px;
+    width: calc(100% / 3 - 20px);
+    height: 100px;
+    background-color: rgb(14, 15, 23);
+    color: white;
+}
+
+.content-left {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.content-left img{
+    max-width: 100%;
+}
+
+.content-right{
+    padding-left: 30%;
+    line-height: 2;
+}
+
+.email{
+    color: rgb(12, 123, 241);
+}
+
+/* FINE LAYOUT */
