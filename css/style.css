@@ -27,7 +27,6 @@ h1{
     float: left;
     margin: 50px 10px 0 10px;
     width: calc(100% / 3 - 20px);
-    height: 100px;
     background-color: rgb(14, 15, 23);
     color: white;
 }
@@ -35,7 +34,6 @@ h1{
 .content-left {
     float: left;
     width: 100px;
-    height: 100px;
 }
 
 .content-left img{
